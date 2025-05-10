@@ -1,4 +1,4 @@
-# Projeto de Aprendizado UI/UX Udemy - Recriação do Spotify
+# Projeto de Aprendizado UI/UX Udemy - Landingpage Barbearia
 
 **Descrição**
 

@@ -12,6 +12,7 @@ Uma landing page para uma barbearia, com ênfase na criação de uma janela para
     * Simulação de processo de agendamento de serviço.
     * Criação de guia de estilo.
     * Criação de identidade visual própria por meio da elaboração de Tipografia, componentes e paleta de cores.
+    * Elaboração de modais por meio de overlays.
 
 ---
 

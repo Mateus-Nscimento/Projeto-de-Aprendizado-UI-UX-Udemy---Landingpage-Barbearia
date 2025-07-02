@@ -1,41 +1,47 @@
-# Projeto de Aprendizado UI/UX Udemy - Landingpage Barbearia
+# Landing Page Barbearia
 
-**Descrição**
+## Descrição do Projeto
 
-Olá, sejam bem vindos ao meu segundo projeto de aprendizado de design de interfaces!
-
-Decidi fazer este projeto afim de documentar minha jornada de aprendizado no curso de [Design de interfaces](https://www.udemy.com/course/figma-design-interfaces/?couponCode=KEEPLEARNINGBR)  no [Figma](https://www.figma.com), oferecido pela plataforma online de cursos, a [Udemy](https://www.udemy.com/). Este projeto é voltado para fins de aprendizado e a prática de design de interfaces, espero poder compartilhar a minha evolução e processo de aprendizado não somente do sofwtare, mas também do design gráfico. Ademais, é válido mencionar que este meu projeto não é filiado com o curso oficial ou com a própria Udemy, este é um projeto pessoal e apenas pretendo compartilhar meu aprendizado e receber feedbacks para melhorias, espero que gostem de meu pequeno projeto. ^^
+Uma landing page para uma barbearia, com ênfase na criação de uma janela para agendamento de cortes. O projeto abordou a simplicidade da interface para agendamento e a apresentação clara dos serviços.
 
 ---
 
-**Demonstração**
+## Funcionalidades Principais
 
-Segue link para visualização do projeto: [Link para o projeto](https://shre.ink/LandingPageBarbeariaCursoFigma)  
-
----
-
-**Tecnologias Utilizadas**
-
-- **[Figma](https://www.figma.com)**: Ferramenta de design de interfaces para criar o layout e os elementos visuais.
-- **[Typescale](https://typescale.com/)**: Ferramenta para fazer a escala das tipografias.
-- **[WCAG - ContrastCheker](https://contrastchecker.com/)**: Ferramenta usada para apurar o contraste das cores usadas.
-- **[Tint & Shade Generator](https://maketintsandshades.com/)**: Utilizado para criação e diversificação de paletas de cores.
+    * Interface de usuário otimizada para desktop.
+    * Simulação de processo de agendamento de serviço.
+    * Criação de guia de estilo.
+    * Criação de identidade visual própria por meio da elaboração de Tipografia, componentes e paleta de cores.
+    * Uso
+  
 
 ---
 
-**Status do Projeto**
+## Como Visualizar o Projeto
 
-- 🟢 **Concluído**: O prótotipo de demonstração para o aprendizado do curso foi concluído de acordo com que fora apresentado durante o curso.
+Para explorar o design e o protótipo interativo deste projeto:
+
+1.  **Acesse o Projeto no Figma:**
+    * Clique no link abaixo para visualizar o arquivo Figma original, onde você pode inspecionar camadas, estilos e componentes.
+    * [Link para o arquivo Figma do projeto](https://shre.ink/BarbeariaLandingPage)
+
+2.  **Interaja com o Protótipo:**
+    * Use o link direto para o protótipo do Figma para simular a interação com a interface como se fosse um aplicativo real.
+    * [Link para o protótipo direto do Figma para visualização](https://shre.ink/BarbeariaLandingPagePrototipo)
+      
 
 ---
 
-**Contribuições**
+## Contexto do Desenvolvimento
 
-O projeto está aberto para sugestões, melhorias, dicas e críticas! Fique à vontade para abrir uma issue ou enviar um pull request!
+Este projeto foi desenvolvido como parte do curso de criação de interfaces UI/UX no Figma, ministrado na Udemy. Este projeto de landing page teve como fim a demonstração do uso e criação de Overlays e modais, além do uso da guia de estilo bem como a elaboração de tipografias, paleta de cores, componentes como botões e etc...
 
 ---
 
-**Contato**
+## Contato
 
-- GitHub: [https://github.com/MateusL1sboa](https://github.com/MateusL1sboa)
-- LinkedIn: [https://www.linkedin.com/in/pablo-mateus-95a15a198/](https://www.linkedin.com/in/pablo-mateus-95a15a198/)
+Segue abaixo meios para contato direto comigo:
+
+[Linkedin](www.linkedin.com/in/mateus-nascimento-95a15a198)
+
+[E-mail para contato](contatomateusnasc@protonmail.com)
